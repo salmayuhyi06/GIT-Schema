@@ -1,0 +1,25 @@
+GitHub adalah platform pengembangan perangkat lunak berbasis web yang memungkinkan pengguna untuk bekerja sama dalam proyek perangkat lunak menggunakan sistem kontrol versi Git. Ini memungkinkan pengembang untuk menyimpan kode sumber mereka dalam repositori, mengelola perubahan, dan berkolaborasi dengan tim mereka atau pengembang lain secara efisien. Di sini, saya akan memberikan penjelasan yang lebih mendalam tentang GitHub serta beberapa konsep terkait:
+
+Git: Git adalah sistem kontrol versi yang dikembangkan oleh Linus Torvalds pada tahun 2005. Ini dirancang untuk mengelola proyek perangkat lunak dengan banyak kontributor. Git memungkinkan pengembang untuk melacak perubahan dalam kode sumber mereka, bekerja secara kolaboratif, dan mengelola versi dari proyek tersebut.
+
+Repositori: Repositori adalah tempat penyimpanan untuk proyek perangkat lunak di GitHub. Ini adalah lokasi di mana semua file dan folder terkait dengan proyek disimpan. Repositori dapat diakses dan dikelola oleh satu atau lebih pengguna.
+
+Commit: Commit adalah tindakan menyimpan perubahan ke repositori Git. Ketika pengembang melakukan commit, mereka menyimpan snapshot dari proyek pada titik waktu tertentu. Setiap commit memiliki pesan yang menjelaskan perubahan yang dilakukan.
+
+Branch: Branch adalah salinan dari repositori yang memungkinkan pengembang untuk bekerja secara terpisah dari versi utama proyek. Branch sering digunakan untuk mengembangkan fitur baru atau memperbaiki bug tanpa mempengaruhi versi stabil dari proyek tersebut.
+
+Pull Request: Pull request adalah permintaan untuk menggabungkan perubahan yang dibuat di branch pengembang ke branch utama repositori. Ini memungkinkan pengembang untuk meminta tinjauan dan umpan balik dari sesama pengembang sebelum perubahan tersebut diimplementasikan ke versi utama proyek.
+
+Fork: Fork adalah
+
+salinan independen dari repositori asli yang dibuat oleh pengguna. Fork memungkinkan pengguna untuk membuat versi baru dari proyek yang ada tanpa mempengaruhi repositori asli. Pengguna dapat membuat perubahan di fork mereka sendiri dan mengajukan pull request ke repositori asli jika mereka ingin menyumbang perubahan tersebut.
+
+Issues: Issues adalah fitur di GitHub yang digunakan untuk melacak pekerjaan, bug, atau permintaan fitur dalam proyek perangkat lunak. Pengguna dapat membuat issues baru, memberikan label, memberikan komentar, dan menetapkan tugas kepada pengguna lain.
+
+Wiki: Wiki adalah fitur yang memungkinkan pengguna untuk membuat dokumentasi atau halaman informasi terkait dengan proyek mereka. Ini memungkinkan pengguna untuk berbagi informasi tentang cara menggunakan proyek, petunjuk kontribusi, atau informasi lain yang relevan.
+
+Collaborators: Collaborators adalah pengguna yang memiliki akses untuk berkontribusi ke repositori tertentu. Mereka memiliki izin untuk melakukan commit, membuat branch, dan mengelola issues.
+
+Organizations: Organizations adalah akun yang dapat dibuat di GitHub untuk mengelola repositori dan anggota tim secara terpusat. Ini memungkinkan tim atau organisasi untuk bekerja sama dalam proyek perangkat lunak dengan mudah.
+
+GitHub telah menjadi salah satu platform pengembangan perangkat lunak yang paling populer dan terkenal di dunia, digunakan oleh jutaan pengembang dari seluruh dunia untuk mengelola proyek mereka. Dengan alat-alat kolaborasi yang kuat dan fitur-fitur yang mendukung pengembangan perangkat lunak secara efisien, GitHub telah menjadi tempat utama untuk kolaborasi dan berbagi dalam komunitas pengembang perangkat lunak.
